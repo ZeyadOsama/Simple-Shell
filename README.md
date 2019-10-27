@@ -5,7 +5,7 @@
 </p>
 Basic Linux shell implemented with C, using basic system calls and libraries. A shell is simply a program that conveniently allows you to run other programs. Shell is an environment in which we can run our commands, programs, and shell scripts. There are different flavors of a shell, just as there are different flavors of operating systems. Each flavor of shell has its own set of recognized commands and functions.
 
-### Features
+## Features
 * Executing normal Linux commands found in the PATH variable paths.
   * Commands with no arguments
   * Commands with arguments
